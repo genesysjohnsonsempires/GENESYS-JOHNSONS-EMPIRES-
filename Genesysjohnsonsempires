@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>GENESYS JOHNSONS EMPIRES</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Section 1: Hero Section -->
+    <header id="hero">
+        <div class="overlay">
+            <h1>Welcome to GENESYS JOHNSONS EMPIRES</h1>
+        </div>
+    </header>
+
+    <!-- Section 2: About Us -->
+    <section id="about">
+        <div class="content">
+            <div class="text">
+                <h2>About Us</h2>
+                <p>GENESYS JOHNSONS EMPIRES is your one-stop solution for affiliate marketing, graphic design, computer technology & accessories, and health & pharmaceutical sales. Our commitment is to deliver quality and reliable services to help your business grow and prosper.</p>
+            </div>
+            <div class="image">
+                <img src="your-image.jpg" alt="About Us Image">
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 3: Services -->
+    <section id="services">
+        <h2>Our Services</h2>
+        <div class="service-grid">
+            <div class="service-item">
+                <h3>Affiliate Marketing</h3>
+                <p>Boost your brand with strategic partnerships and affiliate marketing solutions.</p>
+            </div>
+            <div class="service-item">
+                <h3>Graphic Design</h3>
+                <p>We create stunning visuals that captivate and resonate with your target audience.</p>
+            </div>
+            <div class="service-item">
+                <h3>Technology & Accessories</h3>
+                <p>Providing cutting-edge technology and accessories to meet all your needs.</p>
+            </div>
+            <div class="service-item">
+                <h3>Health & Pharmaceutical Sales</h3>
+                <p>Your reliable source for quality health products and pharmaceuticals.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 4: Statement -->
+    <section id="statement">
+        <p>THE RESULTS OF WHAT YOU ASKED AND PATRONISED WILL SURPRISE AND BRINGS CONFIDENCE TO YOU.</p>
+    </section>
+
+    <!-- Section 5: Contact -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Name: GENESYS JOHNSONS EMPIRES</p>
+        <p>Email: <a href="mailto:genesysjohnsonsempire@gmail.com">genesysjohnsonsempire@gmail.com</a></p>
+        <p>Message: GOD BLESS YOU</p>
+    </section>
+</body>
+</html
